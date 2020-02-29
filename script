@@ -1,0 +1,2 @@
+gcc -g Power.c -o Power
+./Power
